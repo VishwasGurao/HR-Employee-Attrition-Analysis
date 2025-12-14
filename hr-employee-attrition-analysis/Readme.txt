@@ -56,7 +56,7 @@ Tools & Technologies Used:
 
 Machine Learning Models Used:
 - Logistic Regression
-(Additional models can be added for comparison)
+
 
 Evaluation Metrics:
 - Accuracy
@@ -72,4 +72,5 @@ data-driven decisions to reduce attrition.
 
 Author:
 Data Science Intern
+
 Vishwash Balbhim Gurav
